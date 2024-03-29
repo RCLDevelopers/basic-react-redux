@@ -7,7 +7,7 @@ I value keeping my work open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Zangtics Digital](https://github.com/RCLDevelopers/Digital-Clock). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Zangtics Digital/Digital-Clock](https://github.com/RCLDevelopers/Digital-Clock). Thanks!
 
 <br>
 
